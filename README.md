@@ -9,16 +9,15 @@ This project focuses on the practical application of Random Walk in Physics to s
 * I used Python as the programming language
   # Library
   * Matplotlib for data visualization
+
+# Install matplotlib
 install matplotlib using pip
 pip install matplotlib
 
 # Run the simulation
-clone the repository using git clone
-link.......
-Move to the project directory using cd
-link.........
-run the Python file
-link.........
+* clone the repository using git clone
+* Move to the project directory using cd
+* run the Python file 
 
 # Result of the simulation
 The output shows a scatter plot that illustrates the path from the origin of the particle in a box to its current location.
