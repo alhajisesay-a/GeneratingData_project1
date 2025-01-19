@@ -9,6 +9,7 @@ This project focuses on the practical application of Random Walk in Physics to s
 * I used Python as the programming language
   # Library
   * Matplotlib for data visualization
+  * random module
 
 # Install matplotlib
 install matplotlib using pip
