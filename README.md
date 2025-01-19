@@ -2,7 +2,7 @@
 This is a mini project that generates and visualizes data using Python built_in_libraries.
 
 # Project Overview
-Random Walk refers to the paths an object or molecule takes in any direction influenced by random decisions. This concept has many practical applications in Physics, Biology, Chemistry, and Economics.
+Random Walk refers to the path an object or molecule takes in any direction influenced by random decisions. This concept has many practical applications in Physics, Biology, Chemistry, and Economics.
 This project focuses on the practical application of Random Walk in Physics to simulate the behavior of particles in a box. The simulation of this concept helps us visualize the particle from the origin. Each step in the work is influenced by four random choices, either left or right, up or down.
 
 # Requirements
